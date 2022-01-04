@@ -19,3 +19,10 @@ section{
 .first-div img{
     width: 80%;
 }
+
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    color: white;
+}
